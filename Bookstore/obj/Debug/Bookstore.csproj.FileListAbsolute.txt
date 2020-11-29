@@ -1,0 +1,14 @@
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.csprojAssemblyReference.cache
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.AddBook.resources
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.Main.resources
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.AddToCart.resources
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.PayBill.resources
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.Bills.resources
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.Properties.Resources.resources
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.GenerateResource.cache
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\Djordjevic\Desktop\Bookstore\Bookstore\obj\Debug\Bookstore.pdb
